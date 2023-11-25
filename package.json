@@ -5,8 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js",
-    "test": "npm test"
+    "build":"npm install",
+    "start": "nodemon src/index.js"
   },
   "author": "Daniel Caldas",
   "license": "ISC",
