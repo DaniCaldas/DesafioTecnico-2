@@ -2,7 +2,8 @@
 ### api
 - para fazer um cadastro na rota /create
 - para fazer login sera gerado um novo token para autenticação na rota /signin
-- para fazer a autenticação para busca dos usuários com o token no bearer na rota /users  
+- para fazer a autenticação para busca dos usuários com o token no bearer na rota /users
+- recomendado uso de aplicações para desenvolvimento/testes de api´s postman ou insomnia
 - link: https://desafio-2.onrender.com/
 
 ### banco de dados
